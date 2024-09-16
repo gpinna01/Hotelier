@@ -6,4 +6,4 @@ tion about their hotels.
 
 ## Documentation
 
-You can view the full documentation [here](./Relazione Hotelier Pinna.pdf).
+You can view the full documentation [here](./Relazione\ Hotelier\ Pinna.pdf).
